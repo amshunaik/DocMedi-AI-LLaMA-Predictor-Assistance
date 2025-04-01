@@ -18,8 +18,8 @@ logger.addHandler(stream_handler)
 print("Server started at: ", datetime.now())
  
 # Databricks LLM Setup
-DATABRICKS_TOKEN = "dapi660f87007e8275d4f93556c4c60c4961"  # Replace with actual token
-DATABRICKS_BASE_URL = "https://adb-911731324340270.10.azuredatabricks.net/serving-endpoints"
+DATABRICKS_TOKEN = "<Replace with your token>" 
+DATABRICKS_BASE_URL = "<Add your base URL>"
 MODEL_NAME = "databricks-meta-llama-3-3-70b-instruct"
  
 client = OpenAI(api_key=DATABRICKS_TOKEN, base_url=DATABRICKS_BASE_URL)
