@@ -1,4 +1,4 @@
-﻿# DocMedi-Multimodel_App
+﻿# DocMedi-AI-LLM-Predictor-Assistance
 
 ## Problem Statement
 Many individuals face challenges in accurately identifying medical conditions due to misinformation, inadequate health education, and passive learning approaches.
