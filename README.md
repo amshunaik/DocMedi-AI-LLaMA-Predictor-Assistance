@@ -1,5 +1,4 @@
 ﻿# DocMedi-Multimodel_App
-Link : https://thinkerbell-911731324340270.10.azure.databricksapps.com/
 
 ## Problem Statement
 Many individuals face challenges in accurately identifying medical conditions due to misinformation, inadequate health education, and passive learning approaches.
